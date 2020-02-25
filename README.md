@@ -1,4 +1,4 @@
-# download-books
+# Download Books
 Two simple scripts to download books from a specific website where when you are logged in you have a set of links that take you to pages in a book. We used to download some books for free from a private college platform, if you have an 
 
 ## Description
